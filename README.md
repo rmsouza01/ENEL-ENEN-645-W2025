@@ -37,6 +37,10 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Deep Learning Intuition](./Slides/deep_learning_intuition.pdf)
 - [L: Fully Connected Neural Networks](./Slides/fully_connected_neural_networks.pdf)
 - [T: Fully Connected Neural Networks - 2D example](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
+- [T: Fully Connected Neural Networks - MNIST](./Tutorials/fully_connected_NN_mnist_pytorch.ipynb)
+- [L: Convolutional Neural Networks](./Slides/convolutional_neural_networks.pdf)
+- [T: Convolutional Neural Networks - MNIST](./Tutorials/CNN_mnist_pytorch.ipynb)
+
 
 
 
