@@ -5,7 +5,7 @@ The approved course outlines are [here](./Outline/ENEN645-Winter2026-CourseOutli
 
 ### Important Dates
 - Assignment 01 due January 30th at midnight - Submit in a D2L dropbox
-- Assignment 02 due February 13th at midnight - Submit in a D2L dropbox
+- Assignment 02 due February 27th (extended - initial submissio nwas on 13th) at midnight - Submit in a D2L dropbox
 - Midterm 01 is on 23 February in the classroom
 - Midterm 02 is on 06 March in the classroom
 - Final Projects is due 08 April - Submit in a D2L dropbox
@@ -28,6 +28,9 @@ The approved course outlines are [here](./Outline/ENEN645-Winter2026-CourseOutli
 
 Please check the instructions to create a [conda environment](https://rcs.ucalgary.ca/Conda_on_ARC#Installing_Conda) and install [PyTorch](https://rcs.ucalgary.ca/PyTorch_on_ARC).
 
+# Practice Questions
+- [Practice questions](./practice_midterm_questions.pdf)
+
 # Slides and Tutorials
 
 - [L: Course Overview](./Slides/course_overview.pdf)
@@ -39,7 +42,30 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [T: Fully Connected Neural Networks - 2D example](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
 - [T: Fully Connected Neural Networks - MNIST](./Tutorials/fully_connected_NN_mnist_pytorch.ipynb)
 - [L: Convolutional Neural Networks](./Slides/convolutional_neural_networks.pdf)
+- [L: Parameters and Memory](./Slides/parameters_and_memory.pdf)
 - [T: Convolutional Neural Networks - MNIST](./Tutorials/CNN_mnist_pytorch.ipynb)
+- [L: Transfer Learning](./Slides/transfer_learning.pdf)
+- [T: Transfer Learning](./Tutorials/transfer_learning_garbage_images.ipynb)
+- [L: Traditional ML](./Slides/Traditional_ML.pdf)
+- [T: Traditional ML](./Tutorials/Traditional_ML(HMEQ_Data).ipynb)
+- [L: Discussion Assignment 1](./Slides/experimental_design_garbage_example.pdf)
+- T: Transfer Learning Tutorial is in the folder SLURM
+- [L:UNET Model](./Slides/unets.pdf)
+- [T:UNET - Denoising Example](./Tutorials/denoising_1d_signals.ipynb)
+- T: UNET Segmentation Tutorial is in the folder SLURM
+- [L: Generative Adversarial Networks and Domain Adaptation](./Slides/GANs_DA.pdf)
+- [L: Self-supervised Learning](./Slides/SSL.pdf)
+- [T: Generative Adversarial Networks](./Tutorials/GAN_mnist.ipynb)
+- [T: Domain Shift Problem](./Tutorials/MNIST-CNN-DOMAIN-SHIFT.ipynb)
+- [T: Domain Adversarial Domain Adaptation](./Tutorials/DANN-MNIST.ipynb)
+- [L: XAI](./Slides/explainable_AI.pdf)
+- [T: XAI](./Tutorials/alzheimer_classificiation.ipynb)
+- [L: PINNs](./Slides/PINNs.pdf)
+- [T: PINNs](./Tutorials/heat_eqn_tutorial.ipynb)
+
+
+
+
 
 
 
